@@ -1,0 +1,14 @@
+p{
+    text-align: center;
+    background-color:rgba(rgb(0, 60, 255), rgb(13, 0, 128), rgb(2, 2, 83))
+}
+
+img{
+display: inline;
+vertical-align:bottom;
+vertical-align: bottom;
+margin-top: 20px;
+margin-left: 20px;
+width: 10%;
+height: 10%
+}
